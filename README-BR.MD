@@ -1,7 +1,7 @@
 # SlangTranslator
 # ESTE PLUGIN É FORTEMENTE BASEADO E INSPIRADO NO PLUGIN TRANSLATE DO VENCORD - https://github.com/Vendicated/Vencord/tree/main/src/plugins/translate
 
-Um plugin para Vencord que traduz gírias entre idiomas, atualmente suportando inglês para português com mais idiomas planejados.
+Um plugin para Vencord que traduz termos de gírias entre idiomas, atualmente suportando inglês para português com mais idiomas planejados.
 
 ## Recursos
 - Traduz termos de gíria, expressões e abreviações do inglês para o português
@@ -12,17 +12,18 @@ Um plugin para Vencord que traduz gírias entre idiomas, atualmente suportando i
 - Estrutura para adicionar mais idiomas no futuro
 
 ## Demonstração
-Quando você envia uma mensagem com gírias ou clica com o botão direito ou passa o mouse sobre uma mensagem com gírias, o plugin irá traduzi-la:
+Quando você envia uma mensagem com gírias ou clica com o botão direito em uma mensagem com gírias, o plugin traduzirá os termos de gíria:
 
 ```
 "that's fr crazy wtf no cap"
 ```
 
-Será traduzido para:
+Os termos de gíria serão traduzidos:
+- "fr" → "sério"
+- "wtf" → "que diabos"
+- "no cap" → "sem mentira"
 
-```
-"isso é sério louco que diabos sem mentira"
-```
+Assim, os usuários poderão entender o que esses termos de gíria significam em português.
 
 ## Instalação
 ### Instalando o Vencord
@@ -44,12 +45,12 @@ Se você não tem o Vencord instalado:
 
 ## Uso
 ### Traduzindo Mensagens Recebidas
-- Clique com o botão direito ou passe o mouse sobre qualquer mensagem para traduzir gírias
-- A mensagem traduzida aparecerá abaixo da original
+- Clique com o botão direito ou passe o mouse sobre qualquer mensagem com gírias para ver traduções
+- As traduções de gírias aparecerão abaixo da mensagem original
 
 ### Traduzindo Suas Mensagens
 - Clique no ícone do tradutor de gírias na barra de chat para abrir as configurações
-- Ative "Auto Tradução" para traduzir automaticamente suas mensagens antes de enviar
+- Ative "Auto Tradução" para traduzir automaticamente gírias em suas mensagens antes de enviar
 - Você pode alternar a tradução automática pressionando shift+clique ou clicando com o botão direito no ícone da barra de chat
 
 ## Configurações
@@ -62,6 +63,8 @@ As configurações do plugin podem ser acessadas clicando no ícone do tradutor 
 O plugin suporta centenas de termos e expressões de gírias, incluindo:
 - Abreviações comuns de texto/chat (lol, brb, afk, etc.)
 - Gírias e terminologia das redes sociais
+- Termos de jogos
+- Expressões modernas da internet
 - brainrot
 
 ## Contribuindo
