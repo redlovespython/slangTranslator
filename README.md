@@ -9,16 +9,15 @@ A Vencord plugin that translates slang between languages, currently supporting E
 ## Features
 
 - Translate English slang terms, expressions, and abbreviations into Portuguese
-- Right-click any message to translate slang
+- Right-click or hover over any message to translate slang
 - Toggle automatic translation of outgoing messages
-- Comprehensive dictionary of internet slang, gaming terms, and modern expressions
-- Easy-to-use UI with chat bar button
+- Comprehensive dictionary of internet slang.
 - Customizable settings
-- Extensible framework for adding more languages in the future
+- Framework for adding more languages in the future
 
 ## Preview
 
-When you send a message with slang or right-click on a message with slang, the plugin will translate it:
+When you send a message with slang or right-click or hover over a message with slang, the plugin will translate it:
 
 ```
 "that's fr crazy wtf no cap"
@@ -76,9 +75,7 @@ The plugin supports hundreds of slang terms and expressions including:
 
 - Common text/chat abbreviations (lol, brb, afk, etc.)
 - Social media slang and terminology
-- Modern expressions and phrases
-- Gaming terminology
-- Gen Z slang and internet culture terms
+- brainrot
 
 ## Contributing
 
@@ -101,3 +98,5 @@ Pull requests for new languages are welcome!
 Created by [redlovespython](https://github.com/redlovespython)
 
 Built for [Vencord](https://github.com/Vendicated/Vencord)
+
+Inspired by [Translate](https://github.com/Vendicated/Vencord/tree/main/src/plugins/translate)
