@@ -1,5 +1,5 @@
 # SlangTranslator
-# THIS PLUGIN IS HEAVILY BASED AND INSPIRED BY THE TRANSLATE VENCORD PLUGIN - https://github.com/Vendicated/Vencord/tree/main/src/plugins/translate
+# THIS PLUGIN IS HEAVILY BASED ON AND INSPIRED BY THE TRANSLATE VENCORD PLUGIN - https://github.com/Vendicated/Vencord/tree/main/src/plugins/translate
 
 A Vencord plugin that translates slang between languages, currently supporting English to Portuguese with more languages planned.
 
