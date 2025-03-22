@@ -52,7 +52,7 @@ If you don't have Vencord installed:
 
 ### Translating Received Messages
 
-- Right-click on any message and select "Translate Slang"
+- Right-click or hover over any message to translate slang
 - The translated message will appear below the original
 
 ### Translating Your Messages
