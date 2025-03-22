@@ -79,7 +79,7 @@ The plugin supports hundreds of slang terms and expressions including:
 
 ## Contributing
 
-There are several ways to contribute to this plugin:
+How to contribute!
 
 ### Adding New Slang Terms
 You can expand the dictionary by adding more slang terms to the existing language files.
